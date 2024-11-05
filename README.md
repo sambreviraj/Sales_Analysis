@@ -20,7 +20,4 @@ The **Sales Analysis** project presents a comprehensive exploration of sales dat
 - **Matplotlib**: For creating static, animated, and interactive visualizations.
 - **Seaborn**: For statistical data visualization.
 
-## 📂 Files Included
-- **Sales Analysis.ipynb**: Jupyter Notebook containing the analysis and visualizations.
-- **Sales Data.csv**: The dataset used for analysis.
-- **README.md**: Documentation providing an overview of the project.
+
